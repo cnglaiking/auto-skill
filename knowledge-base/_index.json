@@ -1,87 +1,68 @@
 {
-  "lastUpdated": "2026-02-09",
-  "version": "1.0.0",
-  "totalEntries": 1,
-  "categories": [
+  "lastUpdated": "2026-03-09",
+  "owner": "Charlotte Ng",
+  "version": "2.0",
+  "description": "DCH Motors MOTOGO AutoSkill — Charlotte's institutional knowledge base for CRM, Brand, Loyalty, CX, and Data Analytics",
+  "knowledgeBase": [
     {
-      "id": "frontend-dev",
-      "name": "前端開發",
-      "keywords": [
-        "React",
-        "Vue",
-        "CSS",
-        "HTML",
-        "JavaScript",
-        "TypeScript",
-        "組件",
-        "網頁",
-        "UI"
-      ],
-      "file": "frontend-dev.md",
-      "count": 0
+      "id": "charlotte-profile",
+      "file": "charlotte-profile.md",
+      "title": "Charlotte Ng — Role, Positioning & Promotion Strategy",
+      "keywords": ["Charlotte", "profile", "role", "promotion", "career", "GM", "Director", "Sr Manager", "head of", "CX", "CRM", "brand", "loyalty", "data analytics", "DCH Motors"]
     },
     {
-      "id": "backend-dev",
-      "name": "後端開發",
-      "keywords": [
-        "API",
-        "數據庫",
-        "Server",
-        "Node.js",
-        "Python",
-        "Express",
-        "REST",
-        "GraphQL"
-      ],
-      "file": "backend-dev.md",
-      "count": 0
+      "id": "motogo-program-strategy",
+      "file": "motogo-program-strategy.md",
+      "title": "MOTOGO Programme Strategy — 2026 Master Plan",
+      "keywords": ["MOTOGO", "loyalty", "programme", "tiers", "points", "rewards", "gamification", "2026 plan", "revenue model", "strategy"]
     },
     {
-      "id": "writing",
-      "name": "寫作技巧",
-      "keywords": [
-        "文章",
-        "文案",
-        "翻譯",
-        "語言",
-        "寫作",
-        "編輯",
-        "校對",
-        "內容"
-      ],
-      "file": "writing.md",
-      "count": 1
+      "id": "member-segmentation",
+      "file": "member-segmentation.md",
+      "title": "Member Segmentation — Bronze, Silver, Gold, Platinum + Lifecycle Segments",
+      "keywords": ["segmentation", "Bronze", "Silver", "Gold", "Platinum", "CLV", "MLV", "member value", "tier", "persona", "demographic", "lifecycle segment"]
     },
     {
-      "id": "design-layout",
-      "name": "設計排版",
-      "keywords": [
-        "UI",
-        "UX",
-        "色彩",
-        "字體",
-        "排版",
-        "設計",
-        "視覺",
-        "佈局"
-      ],
-      "file": "design-layout.md",
-      "count": 0
+      "id": "crm-campaign-rules",
+      "file": "crm-campaign-rules.md",
+      "title": "CRM Campaign Rules — Channel, Frequency, Automation & Governance",
+      "keywords": ["CRM", "Emarsys", "Dynamics 365", "WhatsApp", "campaign", "automation", "frequency", "suppression", "lifecycle", "triggered", "email", "push"]
     },
     {
-      "id": "workflow",
-      "name": "工作流程",
-      "keywords": [
-        "效率",
-        "管理",
-        "工具",
-        "自動化",
-        "流程",
-        "專案"
-      ],
-      "file": "workflow.md",
-      "count": 0
+      "id": "brand-tone-voice",
+      "file": "brand-tone-voice.md",
+      "title": "MOTOGO Brand — Tone of Voice, Copywriting Guidelines & Visual Identity",
+      "keywords": ["brand", "tone", "voice", "copy", "content", "MOTOGO brand", "creative", "visual identity", "writing style", "campaign copy", "IG", "FB", "WhatsApp copy"]
+    },
+    {
+      "id": "kpi-benchmarks-2026",
+      "file": "kpi-benchmarks-2026.md",
+      "title": "2026 KPI Benchmarks — 4-Tier Framework: Board, Programme, Campaign, Data",
+      "keywords": ["KPI", "metrics", "benchmarks", "active rate", "NPS", "redemption", "churn", "CLV", "open rate", "conversion", "ROI", "board KPI", "programme health"]
+    },
+    {
+      "id": "ap-budget-2026",
+      "file": "ap-budget-2026.md",
+      "title": "2026 A&P Budget — HK$1,000,000 Allocation, Channel ROI & Governance",
+      "keywords": ["A&P", "budget", "allocation", "digital", "events", "CRM spend", "HK$1M", "ROI per channel", "budget governance", "campaign budget"]
+    },
+    {
+      "id": "bu-coordination",
+      "file": "bu-coordination.md",
+      "title": "11-BU Coordination Model — Governance, Reporting & BU Champion Programme",
+      "keywords": ["BU", "business unit", "coordination", "11 BU", "governance", "BU champion", "MCL", "reporting", "cross-functional"]
+    },
+    {
+      "id": "ai-tech-stack",
+      "file": "ai-tech-stack.md",
+      "title": "AI & Tech Stack — SAP Emarsys, Dynamics 365, CDP, WhatsApp, Predictive Models",
+      "keywords": ["CDP", "AI", "tech", "Emarsys", "Dynamics 365", "predictive", "data", "WhatsApp", "OmniChat", "tech roadmap", "integration", "stack"]
+    },
+    {
+      "id": "promotion-playbook",
+      "file": "promotion-playbook.md",
+      "title": "Charlotte's Promotion Playbook — From Sr. Manager to GM/Director",
+      "keywords": ["promotion", "career", "GM", "Director", "advancement", "leadership", "brand building", "achievement", "narrative", "LinkedIn", "stakeholder"]
     }
-  ],
-  "absorbedSkills": []
+  ]
 }
