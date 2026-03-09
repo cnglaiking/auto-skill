@@ -1,12 +1,62 @@
 {
-  "lastUpdated": "2026-02-09",
-  "version": "1.0.0",
+  "lastUpdated": "2026-03-09",
+  "owner": "Charlotte Ng",
+  "version": "2.0",
+  "description": "Experience log for MOTOGO CRM, marketing, loyalty, and data skills — DCH Motors HK. All skills are deep, in-depth playbooks for Charlotte's specific role.",
   "skills": [
     {
-      "skillId": "",
-      "file": "",
-      "keywords": [],
-      "count": 
+      "skill_id": "crm-lifecycle-journey",
+      "file": "skill-crm-lifecycle-journey.md",
+      "title": "CRM Lifecycle Journey Design & Automation",
+      "keywords": ["lifecycle", "journey", "automation", "Emarsys", "welcome", "onboard", "re-engage", "triggered", "email", "WhatsApp", "CRM stages", "Stage 1", "Stage 6", "win-back"]
+    },
+    {
+      "skill_id": "sd-coupon-telemarketing",
+      "file": "skill-sd-coupon-telemarketing.md",
+      "title": "SD Coupon Telemarketing — Scripts, Optimisation & Revenue Management",
+      "keywords": ["SD coupon", "telemarketing", "TM", "script", "contact rate", "conversion", "HK$840,660", "quarterly", "phone", "call centre", "revenue", "contract renewal"]
+    },
+    {
+      "skill_id": "mcl-referral-pipeline",
+      "file": "skill-mcl-referral-pipeline.md",
+      "title": "MCL Referral Commission Pipeline — Scaling from HK$388K to HK$1M",
+      "keywords": ["MCL", "referral", "commission", "pipeline", "car lead", "vehicle referral", "BU", "Q3 inflection", "scaling", "HK$711K", "HK$1,024,000", "member referral"]
+    },
+    {
+      "skill_id": "insurance-vas-launch",
+      "file": "skill-insurance-vas-launch.md",
+      "title": "Insurance VAS Product Launch — MOTOGO Q2 2026",
+      "keywords": ["insurance", "VAS", "value added service", "launch", "Q2", "partner", "chatbot", "WhatsApp quote", "HK$165K", "protection", "quote", "new revenue stream"]
+    },
+    {
+      "skill_id": "member-reactivation",
+      "file": "skill-member-reactivation.md",
+      "title": "Dormant Member Reactivation — Win-Back Campaigns & Results",
+      "keywords": ["reactivation", "win-back", "dormant", "inactive", "passive", "churn", "re-engage", "points expiry", "WhatsApp win-back", "offer", "at-risk", "lapsed"]
+    },
+    {
+      "skill_id": "vip-event-management",
+      "file": "skill-vip-event-management.md",
+      "title": "MOTOGO VIP Event Management — Spring Drive & Annual Night",
+      "keywords": ["VIP event", "Spring Drive", "Annual Night", "NPS", "member experience", "gala", "invitations", "event production", "PR", "500 members", "300 members", "event agenda"]
+    },
+    {
+      "skill_id": "board-presentation",
+      "file": "skill-board-presentation.md",
+      "title": "Board & GM-Level Presentation — Charlotte's Executive Communication",
+      "keywords": ["board", "presentation", "GM", "executive", "QBR", "stakeholder", "P&L", "strategy deck", "KPI review", "revenue presentation", "promotion", "SCQA", "slide template"]
+    },
+    {
+      "skill_id": "revenue-diversification",
+      "file": "skill-revenue-diversification.md",
+      "title": "Revenue Diversification & B2B Marketing Service Fee",
+      "keywords": ["revenue diversification", "B2B", "marketing service fee", "media network", "partner", "external brand", "first-party data", "new revenue", "MOTOGO media", "brand partner"]
+    },
+    {
+      "skill_id": "data-analytics-cdp",
+      "file": "skill-data-analytics-cdp.md",
+      "title": "Data Analytics, CDP & Predictive Intelligence",
+      "keywords": ["CDP", "data analytics", "predictive churn", "churn model", "unified profile", "11 BU data", "Dynamics 365", "Emarsys data", "MLV", "member lifetime value", "dashboard", "reporting"]
     }
   ]
 }
